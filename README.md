@@ -1,2 +1,2 @@
-# MPAE-Masked-Predicted-Auto-encoder-for-Incomplete-Brain-Tumor-Segmentation-with-Holder-Divergence
-CVPR 2024 
+# Unveiling Incomplete Modality Brain Tumor Segmentation: Leveraging Masked Predicted Auto-Encoder and Divergence Learning
+
